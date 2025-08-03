@@ -17,38 +17,22 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafay65&area=true&hide_border=true&theme=github" height="200" alt="activity-graph" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <div style="flex: 1; text-align: center; padding: 0 20px;">
-    <h3>My Competitive Programming Profiles</h3>
-    <hr style="width: 80%; margin: 10px auto;"/>
-    <p style="display: flex; justify-content: center; align-items: flex-center; gap: 20px;">
-      <a href="https://codeforces.com/profile/MostafaY">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width="40px"/>
-      </a>
-      <br/><br/>
-      <a href="https://leetcode.com/u/Mostafay65/">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40px"/>
-      </a>
-    </p>
-  </div>
-  <div style="flex: 1; text-align: center; padding: 0 20px;">
-    <h3>Connect with me</h3>
-    <hr style="width: 80%; margin: 10px auto;"/>
-    <p style="display: flex; justify-content: center; align-items: flex-center; gap: 20px;">
-      <a href="mailto:mostafaysf65@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Mostafay65">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-      <br/><br/>
-      <a href="https://linkedin.com/in/mostafay65">
-        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </p>
-  </div>
+<h3 align="center"> CONNECT WITH ME </h3>
+<div align="center">
+  <a href="mailto:mostafaysf65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/mostafay65" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/MostafaY" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/Mostafay65/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-2C2C2C?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
 </div>
+
 
 <br/>
 <hr/>
@@ -74,7 +58,7 @@
 </div>
 
 
-<!-- 
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mostafay65/Mostafay65/main/output/github-contribution-grid-snake-dark.svg" />
-</div> -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mostafay65/Mostafay65/output/github-contribution-grid-snake-dark.svg" />
+</div>
