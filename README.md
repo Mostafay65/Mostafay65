@@ -33,7 +33,6 @@
   </a>
 </div>
 
-
 <br/>
 <hr/>
 
@@ -46,19 +45,16 @@
 <br/>
 <br/>
 
-
 <div align="center">
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mostafay65&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mostafay65&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafay65&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-
-
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mostafay65/Mostafay65/output/github-contribution-grid-snake-dark.svg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mostafay65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafay65&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafay65&theme=dark" alt="Mostafay65" />
+<br/>
+
+</div>
+
